@@ -1,0 +1,58 @@
+{
+  "effects": [
+    {
+      "type": "potion",
+      "cooldown": "50",
+      "min": -1,
+      "max": 20,
+      "potions": [
+        {
+          "name": "minecraft:speed",
+          "duration": "100",
+          "amplifier": 0,
+          "particles": false
+        }
+      ]
+    },
+    {
+      "type": "potion",
+      "cooldown": "50",
+      "min": 50,
+      "max": 80,
+      "potions": [
+        {
+          "name": "minecraft:slowness",
+          "duration": "100",
+          "amplifier": 0,
+          "particles": false
+        }
+      ]
+    },
+    {
+      "type": "potion",
+      "cooldown": "50",
+      "min": 90,
+      "max": 2000000000,
+      "potions": [
+        {
+          "name": "minecraft:slowness",
+          "duration": "100",
+          "amplifier": 1,
+          "particles": false
+        },
+        {
+          "name": "minecraft:poison",
+          "duration": "100",
+          "amplifier": 0,
+          "particles": false
+        },
+        {
+          "name": "minecraft:mining_fatigue",
+          "duration": "100",
+          "amplifier": 0,
+          "particles": false
+        }
+      ]
+    }
+  ]
+}

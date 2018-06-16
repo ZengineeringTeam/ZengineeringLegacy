@@ -1,0 +1,146 @@
+{
+  "coalSize": 64,
+  "coalChance": 8,
+  "coalDimBlacklist": [
+    -1,
+    1
+  ],
+  "coalMinY": 8,
+  "coalMaxY": 78,
+  "cinnabarSize": 40,
+  "cinnabarChance": 6,
+  "cinnabarDimBlacklist": [
+    -1,
+    1
+  ],
+  "cinnabarMinY": 5,
+  "cinnabarMaxY": 12,
+  "goldSize": 40,
+  "goldChance": 4,
+  "goldDimBlacklist": [
+    -1,
+    1
+  ],
+  "goldMinY": 5,
+  "goldMaxY": 30,
+  "lapisSize": 32,
+  "lapisChance": 5,
+  "lapisDimBlacklist": [
+    -1,
+    1
+  ],
+  "lapisMinY": 10,
+  "lapisMaxY": 24,
+  "quartzSize": 40,
+  "quartzChance": 6,
+  "quartzDimBlacklist": [
+    -1,
+    1
+  ],
+  "quartzMinY": 6,
+  "quartzMaxY": 29,
+  "kimberliteSize": 20,
+  "kimberliteChance": 3,
+  "kimberliteDimBlacklist": [
+    -1,
+    1
+  ],
+  "kimberliteMinY": 2,
+  "kimberliteMaxY": 15,
+  "berylSize": 16,
+  "berylChance": 3,
+  "berylDimBlacklist": [
+    -1,
+    1
+  ],
+  "berylMinY": 4,
+  "berylMaxY": 32,
+  "hematiteSize": 24,
+  "hematiteChance": 6,
+  "hematiteDimBlacklist": [
+    -1,
+    1
+  ],
+  "hematiteMinY": 32,
+  "hematiteMaxY": 60,
+  "limoniteSize": 80,
+  "limoniteChance": 5,
+  "limoniteDimBlacklist": [
+    -1,
+    1
+  ],
+  "limoniteMinY": 6,
+  "limoniteMaxY": 32,
+  "malachiteSize": 24,
+  "malachiteChance": 6,
+  "malachiteDimBlacklist": [
+    -1,
+    1
+  ],
+  "malachiteMinY": 39,
+  "malachiteMaxY": 44,
+  "azuriteSize": 80,
+  "azuriteChance": 5,
+  "azuriteDimBlacklist": [
+    -1,
+    1
+  ],
+  "azuriteMinY": 12,
+  "azuriteMaxY": 44,
+  "cassiteriteSize": 24,
+  "cassiteriteChance": 6,
+  "cassiteriteDimBlacklist": [
+    -1,
+    1
+  ],
+  "cassiteriteMinY": 44,
+  "cassiteriteMaxY": 68,
+  "tealliteSize": 80,
+  "tealliteChance": 5,
+  "tealliteDimBlacklist": [
+    -1,
+    1
+  ],
+  "tealliteMinY": 8,
+  "tealliteMaxY": 43,
+  "galenaSize": 72,
+  "galenaChance": 5,
+  "galenaDimBlacklist": [
+    -1,
+    1
+  ],
+  "galenaMinY": 16,
+  "galenaMaxY": 50,
+  "bauxiteSize": 64,
+  "bauxiteChance": 4,
+  "bauxiteDimBlacklist": [
+    -1,
+    1
+  ],
+  "bauxiteMinY": 45,
+  "bauxiteMaxY": 70,
+  "platinumSize": 32,
+  "platinumChance": 4,
+  "platinumDimBlacklist": [
+    -1,
+    1
+  ],
+  "platinumMinY": 3,
+  "platinumMaxY": 25,
+  "autuniteSize": 24,
+  "autuniteChance": 5,
+  "autuniteDimBlacklist": [
+    -1,
+    1
+  ],
+  "autuniteMinY": 8,
+  "autuniteMaxY": 33,
+  "sphaleriteSize": 24,
+  "sphaleriteChance": 4,
+  "sphaleriteDimBlacklist": [
+    -1,
+    1
+  ],
+  "sphaleriteMinY": 35,
+  "sphaleriteMaxY": 55
+}
