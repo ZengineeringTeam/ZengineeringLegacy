@@ -1,22 +1,22 @@
 {
   "coalSize": 64,
-  "coalChance": 8,
+  "coalChance": 20,
   "coalDimBlacklist": [
     -1,
     1
   ],
-  "coalMinY": 8,
+  "coalMinY": 48,
   "coalMaxY": 78,
-  "cinnabarSize": 40,
-  "cinnabarChance": 6,
+  "cinnabarSize": 64,
+  "cinnabarChance": 15,
   "cinnabarDimBlacklist": [
     -1,
     1
   ],
-  "cinnabarMinY": 5,
-  "cinnabarMaxY": 12,
-  "goldSize": 40,
-  "goldChance": 4,
+  "cinnabarMinY": 15,
+  "cinnabarMaxY": 64,
+  "goldSize": 55,
+  "goldChance": 18,
   "goldDimBlacklist": [
     -1,
     1
@@ -24,7 +24,7 @@
   "goldMinY": 5,
   "goldMaxY": 30,
   "lapisSize": 32,
-  "lapisChance": 5,
+  "lapisChance": 13,
   "lapisDimBlacklist": [
     -1,
     1
@@ -96,7 +96,7 @@
   "cassiteriteMinY": 44,
   "cassiteriteMaxY": 68,
   "tealliteSize": 80,
-  "tealliteChance": 5,
+  "tealliteChance": 15,
   "tealliteDimBlacklist": [
     -1,
     1
@@ -112,7 +112,7 @@
   "galenaMinY": 16,
   "galenaMaxY": 50,
   "bauxiteSize": 64,
-  "bauxiteChance": 4,
+  "bauxiteChance": 20,
   "bauxiteDimBlacklist": [
     -1,
     1
@@ -128,7 +128,7 @@
   "platinumMinY": 3,
   "platinumMaxY": 25,
   "autuniteSize": 24,
-  "autuniteChance": 5,
+  "autuniteChance": 13,
   "autuniteDimBlacklist": [
     -1,
     1

@@ -41,7 +41,7 @@
           "particles": false
         },
         {
-          "name": "minecraft:poison",
+          "name": "minecraft:hunger",
           "duration": "100",
           "amplifier": 0,
           "particles": false
