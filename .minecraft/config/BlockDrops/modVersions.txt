@@ -63,7 +63,6 @@
   "itemphysic": "1.4.0",
   "seasonal_bees": "1.0",
   "codechickenlib": "3.1.9.344",
-  "packmode": "1.2.0",
   "forestry": "5.8.0.302",
   "examplemod": "1.0",
   "defaultoptions": "9.2.7"
