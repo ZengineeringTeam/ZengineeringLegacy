@@ -1,0 +1,269 @@
+SoulforgedSteel
+	arrowSoulforgedSteel
+	springSoulforgedSteel
+	gearSoulforgedSteel
+	nuggetSoulforgedSteel
+	ingotSoulforgedSteel
+	plateSoulforgedSteel
+
+Tin
+	rockOreTin
+	oreNuggetTin
+	dustTin
+	gearTin
+	nuggetTin
+	ingotTin
+	plateTin
+	blockTin
+	coinTin
+	oreTin
+
+Nickel
+	slabNickel
+	slabSheetmetalNickel
+	blockSheetmetalNickel
+	dustNickel
+	gearNickel
+	nuggetNickel
+	ingotNickel
+	plateNickel
+	blockNickel
+	coinNickel
+	oreNickel
+
+Lead
+	slabLead
+	rockOreLead
+	oreNuggetLead
+	slabSheetmetalLead
+	blockSheetmetalLead
+	dustLead
+	gearLead
+	nuggetLead
+	ingotLead
+	plateLead
+	blockLead
+	coinLead
+	oreLead
+
+Enderium
+	dustEnderium
+	gearEnderium
+	nuggetEnderium
+	ingotEnderium
+	plateEnderium
+	blockEnderium
+	coinEnderium
+
+Invar
+	dustInvar
+	gearInvar
+	nuggetInvar
+	ingotInvar
+	plateInvar
+	blockInvar
+	coinInvar
+
+Mithril
+	dustMithril
+	gearMithril
+	nuggetMithril
+	ingotMithril
+	plateMithril
+	blockMithril
+	coinMithril
+	oreMithril
+
+Steel
+	fenceSteel
+	scaffoldingSteel
+	slabSteel
+	stickSteel
+	wireSteel
+	slabSheetmetalSteel
+	blockSheetmetalSteel
+	dustSteel
+	gearSteel
+	nuggetSteel
+	ingotSteel
+	plateSteel
+	blockSteel
+	coinSteel
+
+Lumium
+	dustLumium
+	gearLumium
+	nuggetLumium
+	ingotLumium
+	plateLumium
+	blockLumium
+	coinLumium
+
+Electrum
+	slabElectrum
+	wireElectrum
+	slabSheetmetalElectrum
+	blockSheetmetalElectrum
+	dustElectrum
+	gearElectrum
+	nuggetElectrum
+	ingotElectrum
+	plateElectrum
+	blockElectrum
+	coinElectrum
+
+HOPGraphite
+	dustHOPGraphite
+	ingotHOPGraphite
+
+Diamond
+	gemDiamond
+	nuggetDiamond
+	ingotDiamond
+	blockDiamond
+	oreDiamond
+
+ConcentratedHellfire
+	ingotConcentratedHellfire
+	blockConcentratedHellfire
+
+Signalum
+	dustSignalum
+	gearSignalum
+	nuggetSignalum
+	ingotSignalum
+	plateSignalum
+	blockSignalum
+	coinSignalum
+
+Aluminum
+	fenceAluminum
+	scaffoldingAluminum
+	slabAluminum
+	stickAluminum
+	wireAluminum
+	slabSheetmetalAluminum
+	blockSheetmetalAluminum
+	dustAluminum
+	gearAluminum
+	nuggetAluminum
+	ingotAluminum
+	plateAluminum
+	blockAluminum
+	coinAluminum
+	oreAluminum
+
+Bronze
+	dustBronze
+	gearBronze
+	nuggetBronze
+	ingotBronze
+	plateBronze
+	blockBronze
+	coinBronze
+
+Constantan
+	slabConstantan
+	slabSheetmetalConstantan
+	blockSheetmetalConstantan
+	dustConstantan
+	gearConstantan
+	nuggetConstantan
+	ingotConstantan
+	plateConstantan
+	blockConstantan
+	coinConstantan
+
+Iridium
+	dustIridium
+	gearIridium
+	nuggetIridium
+	ingotIridium
+	plateIridium
+	blockIridium
+	coinIridium
+	oreIridium
+
+Uranium
+	slabUranium
+	slabSheetmetalUranium
+	blockSheetmetalUranium
+	dustUranium
+	nuggetUranium
+	ingotUranium
+	plateUranium
+	blockUranium
+	oreUranium
+
+Platinum
+	oreBlockPlatinum
+	dustPlatinum
+	gearPlatinum
+	nuggetPlatinum
+	ingotPlatinum
+	platePlatinum
+	blockPlatinum
+	coinPlatinum
+	orePlatinum
+
+Silver
+	slabSilver
+	rockOreSilver
+	oreNuggetSilver
+	slabSheetmetalSilver
+	blockSheetmetalSilver
+	dustSilver
+	gearSilver
+	nuggetSilver
+	ingotSilver
+	plateSilver
+	blockSilver
+	coinSilver
+	oreSilver
+
+Iron
+	stickIron
+	rockOreIron
+	oreNuggetIron
+	slabSheetmetalIron
+	blockSheetmetalIron
+	dustIron
+	gearIron
+	nuggetIron
+	ingotIron
+	plateIron
+	blockIron
+	coinIron
+	oreIron
+
+Gold
+	oreBlockGold
+	rockOreGold
+	oreNuggetGold
+	slabSheetmetalGold
+	blockSheetmetalGold
+	dustGold
+	gearGold
+	nuggetGold
+	ingotGold
+	plateGold
+	blockGold
+	coinGold
+	oreGold
+
+Copper
+	slabCopper
+	rockOreCopper
+	wireCopper
+	oreNuggetCopper
+	slabSheetmetalCopper
+	blockSheetmetalCopper
+	dustCopper
+	gearCopper
+	nuggetCopper
+	ingotCopper
+	plateCopper
+	blockCopper
+	coinCopper
+	oreCopper
+
