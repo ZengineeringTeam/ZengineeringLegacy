@@ -1,3 +1,25 @@
+# data
+/.minecraft/.mixin.out
+/.minecraft/backups
+/.minecraft/coremods
+/.minecraft/crash-reports
+/.minecraft/local
+/.minecraft/logs
+/.minecraft/saves
+/.minecraft/screenshots
+/.minecraft/server-resource-packs
+/.minecraft/texturepacks
+/.minecraft/*.*
 
-.minecraft/scripts/recipes.zs
-.minecraft/config/jei/worldSettings.cfg
+# jars
+/.minecraft/mods/*
+
+# scripts
+/.minecraft/scripts/recipes.zs
+
+# config
+/.minecraft/config/jei/worldSettings.cfg
+/.minecraft/config/MouseTweaks.cfg
+/.minecraft/config/splash.properties
+/.minecraft/.ReAuth.cfg
+/instance.cfg
