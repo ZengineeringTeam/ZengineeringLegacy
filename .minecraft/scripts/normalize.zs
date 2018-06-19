@@ -55,6 +55,10 @@ furnace.setFuel(<quark:reed_block_stairs>, 1200);
 
 # Survivalist
 recipes.removeByRecipeName("survivalist:sticks_from_leaves");
+recipes.removeByRecipeName("survivalist:tanned_helmet");
+recipes.removeByRecipeName("survivalist:tanned_chestplate");
+recipes.removeByRecipeName("survivalist:tanned_leggings");
+recipes.removeByRecipeName("survivalist:tanned_boots");
 
 # Thermal Foundation
 recipes.removeByRecipeName("thermalfoundation:diamond");
@@ -66,6 +70,7 @@ recipes.removeByRecipeName("thermalfoundation:tool.shears_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.sickle_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.hammer_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.shield_diamond");
+
 
 # The One Probe
 recipes.removeByRecipeName("theoneprobe:probe");
@@ -82,7 +87,7 @@ recipes.removeByRecipeName("inspirations:glass_trapdoor");
 recipes.addShaped(<inspirations:glass_trapdoor>, [[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>]]);
 
 # Better With Mods
-recipes.remove(<biomesoplenty:dirt:*>);
+# recipes.remove(<biomesoplenty:dirt:*>);
 # recipes.removeByRecipeName("betterwithmods:bop_pile.0"); # it
 # recipes.removeByRecipeName("betterwithmods:bop_pile.1"); # doesnt
 # recipes.removeByRecipeName("betterwithmods:bop_pile.2"); # work
