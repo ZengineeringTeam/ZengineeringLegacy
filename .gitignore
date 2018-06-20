@@ -10,6 +10,8 @@
 /.minecraft/server-resource-packs
 /.minecraft/texturepacks
 /.minecraft/*.*
+/.minecraft/config/BlockDrops/modVersions.txt
+/.minecraft/config/BlockDrops/blockdrops.txt
 
 # jars
 /.minecraft/mods/*
@@ -24,3 +26,6 @@
 /.minecraft/config/worldedit
 /.minecraft/.ReAuth.cfg
 /instance.cfg
+
+# other
+/.minecraft/resourcepacks/Minecraft-Mod-Language-Modpack.zip
