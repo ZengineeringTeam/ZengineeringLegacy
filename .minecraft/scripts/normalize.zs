@@ -53,13 +53,6 @@ furnace.setFuel(<quark:reed_block_slab>, 600);
 furnace.setFuel(<quark:reed_block_stairs>, 900);
 furnace.setFuel(<quark:reed_block_stairs>, 1200);
 
-# Survivalist
-recipes.removeByRecipeName("survivalist:sticks_from_leaves");
-recipes.removeByRecipeName("survivalist:tanned_helmet");
-recipes.removeByRecipeName("survivalist:tanned_chestplate");
-recipes.removeByRecipeName("survivalist:tanned_leggings");
-recipes.removeByRecipeName("survivalist:tanned_boots");
-
 # Thermal Foundation
 recipes.removeByRecipeName("thermalfoundation:diamond");
 recipes.removeByRecipeName("thermalfoundation:material_5");
@@ -70,7 +63,6 @@ recipes.removeByRecipeName("thermalfoundation:tool.shears_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.sickle_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.hammer_diamond");
 recipes.removeByRecipeName("thermalfoundation:tool.shield_diamond");
-
 
 # The One Probe
 recipes.removeByRecipeName("theoneprobe:probe");
