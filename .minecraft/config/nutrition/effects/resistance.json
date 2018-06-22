@@ -2,8 +2,12 @@
 	"name": "resistance",
 	"potion": "minecraft:resistance",
 	"amplifier": 0,
-	"minimum": 80,
+	"minimum": 90,
 	"maximum": 100,
 	"detect": "average",
+	"nutrients": [
+		"fruit",
+		"vegetable"
+	],
 	"enabled": true
 }

@@ -5,5 +5,9 @@
 	"minimum": 90,
 	"maximum": 100,
 	"detect": "average",
+	"nutrients": [
+		"protein",
+		"grain"
+	],
 	"enabled": true
 }
