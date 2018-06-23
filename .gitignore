@@ -22,7 +22,6 @@
 # config
 /.minecraft/config/jei/worldSettings.cfg
 /.minecraft/config/MouseTweaks.cfg
-/.minecraft/config/splash.properties
 /.minecraft/config/worldedit
 /.minecraft/.ReAuth.cfg
 /instance.cfg
