@@ -1,0 +1,37 @@
+#priority 900
+import crafttweaker.oredict.IOreDictEntry;
+
+<ore:logOak>.add(<minecraft:log>);
+<ore:logSpruce>.add(<minecraft:log:1>);
+<ore:logBirch>.add(<minecraft:log:2>);
+<ore:logJungle>.add(<minecraft:log:3>);
+<ore:logAcacia>.add(<minecraft:log2>);
+<ore:logDarkOak>.add(<minecraft:log2:1>);
+<ore:logJungle>.add(<betterwithmods:blood_log>);
+<ore:logOak>.add(<biomesoplenty:log_1:*>);
+<ore:logOak>.add(<biomesoplenty:log_2:*>);
+<ore:logOak>.add(<biomesoplenty:log_3:*>);
+<ore:logOak>.add(<biomesoplenty:log_4:5>);
+<ore:logOak>.add(<forestry:logs.0:*>);
+<ore:logOak>.add(<forestry:logs.1:*>);
+<ore:logOak>.add(<forestry:logs.2:*>);
+<ore:logOak>.add(<forestry:logs.3:*>);
+<ore:logOak>.add(<forestry:logs.4:*>);
+<ore:logOak>.add(<forestry:logs.5:*>);
+<ore:logOak>.add(<forestry:logs.6:*>);
+<ore:logOak>.add(<forestry:logs.7:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.0:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.1:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.2:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.3:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.4:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.5:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.6:*>);
+<ore:logOak>.add(<forestry:logs.fireproof.7:*>);
+<ore:logOak>.add(<forestry:logs.vanilla.fireproof.0>);
+<ore:logSpruce>.add(<forestry:logs.vanilla.fireproof.0:1>);
+<ore:logBirch>.add(<forestry:logs.vanilla.fireproof.0:2>);
+<ore:logJungle>.add(<forestry:logs.vanilla.fireproof.0:3>);
+<ore:logAcacia>.add(<forestry:logs.vanilla.fireproof.1>);
+<ore:logDarkOak>.add(<forestry:logs.vanilla.fireproof.1:1>);
+<ore:logOak>.add(<techreborn:rubber_log>);
