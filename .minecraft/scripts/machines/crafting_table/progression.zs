@@ -3,6 +3,8 @@
 recipes.addShaped(<minecraft:flint>, [[<ore:gravel>, <ore:gravel>],[<ore:gravel>, <ore:gravel>]]);
 recipes.addShaped(<minecraft:stick>, [[<ore:treeSapling>]]);
 
+recipes.removeByRecipeName("minecraft:stick");
+recipes.removeByRecipeName("immersiveengineering:material/stick_treated");
 recipes.removeByRecipeName("minecraft:oak_planks");
 recipes.removeByRecipeName("minecraft:spruce_planks");
 recipes.removeByRecipeName("minecraft:birch_planks");
