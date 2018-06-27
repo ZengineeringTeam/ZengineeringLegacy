@@ -1,3 +1,4 @@
+#modloaded magneticraft
 import mods.magneticraft.CrushingTable;
 
 # ores
