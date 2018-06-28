@@ -20,9 +20,27 @@ import crafttweaker.oredict.IOreDictEntry;
 
 # Dyes
 <ore:dyeBrown>.remove(<betterwithmods:material:5>);
-<ore:dyeBrown>.remove(<industrialforegoing:fertiler>); # No, I won't use them
+<ore:dyeBrown>.remove(<industrialforegoing:fertilizer>); # No, I won't use them
 <ore:dyeBlack>.remove(<thermalfoundation:dye:0>);
-# ....................................
+<ore:dyeRed>.remove(<thermalfoundation:dye:1>);
+<ore:dyeGreen>.remove(<thermalfoundation:dye:2>);
+<ore:dyeBrown>.remove(<thermalfoundation:dye:3>);
+<ore:dyeBlue>.remove(<thermalfoundation:dye:4>);
+<ore:dyePurple>.remove(<thermalfoundation:dye:5>);
+<ore:dyeCyan>.remove(<thermalfoundation:dye:6>);
+<ore:dyeLightGray>.remove(<thermalfoundation:dye:7>);
+<ore:dyeGray>.remove(<thermalfoundation:dye:8>);
+<ore:dyePink>.remove(<thermalfoundation:dye:9>);
+<ore:dyeLime>.remove(<thermalfoundation:dye:10>);
+<ore:dyeYellow>.remove(<thermalfoundation:dye:11>);
+<ore:dyeLightBlue>.remove(<thermalfoundation:dye:12>);
+<ore:dyeMagenta>.remove(<thermalfoundation:dye:13>);
+<ore:dyeOrange>.remove(<thermalfoundation:dye:14>);
+<ore:dyeWhite>.remove(<thermalfoundation:dye:15>);
+<ore:dyeGreen>.remove(<enderio:item_material:48>);
+<ore:dyeBrown>.remove(<enderio:item_material:49>);
+<ore:dyeBlack>.remove(<enderio:item_material:50>);
+<ore:dye>.remove(<thermalfoundation:dye:32767>);
 <ore:dye>.addItems([
   <biomesoplenty:blue_dye>,
   <biomesoplenty:brown_dye>,
@@ -39,7 +57,7 @@ import crafttweaker.oredict.IOreDictEntry;
   <industrialforegoing:book_manual>,
   <betterwithmods:manual>,
   <techreborn:techmanuel>,
-  <xnet:xnetmanual>,
+  <xnet:xnet_manual>,
   <immersiveengineering:tool:3>,
   <forestry:book_forester>
 ]);
