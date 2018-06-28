@@ -7,6 +7,8 @@ recipes.addShaped(<minecraft:bed>, [
   [<ore:blockWool>, <ore:blockWool>, <ore:blockWool>],
   [<ore:plankWood>, <ore:plankWood>, <ore:plankWood>]
 ]);
+recipes.removeByRecipeName("minecraft:bone_meal_from_bone");
+recipes.removeByRecipeName("minecraft:bone_meal_from_block");
 
 # Quark
 recipes.removeByRecipeName("quark:trapped_chest");
@@ -54,3 +56,7 @@ recipes.removeByRegex("betterwithmods:piles/.+");
 
 # EnderIO
 # Don't use CraftTweaker to modify recipes. There are some bugs and use its xml.
+
+# Magneticraft
+recipes.removeByRecipeName("magneticraft:iron_hammer_normal");
+recipes.removeByRecipeName("magneticraft:steel_hammer_normal");
