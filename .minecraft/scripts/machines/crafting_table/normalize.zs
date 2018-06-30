@@ -60,3 +60,13 @@ recipes.removeByRegex("betterwithmods:piles/.+");
 # Magneticraft
 recipes.removeByRecipeName("magneticraft:iron_hammer_normal");
 recipes.removeByRecipeName("magneticraft:steel_hammer_normal");
+
+# Tech Reborn
+recipes.removeByRecipeName("techreborn:diamond");
+
+# Ceramics
+recipes.removeByRecipeName("ceramics:tools/unfired_clay_bucket_block");
+recipes.removeByRecipeName("ceramics:armor/clay_helmet_raw");
+recipes.removeByRecipeName("ceramics:armor/clay_chestplate_raw");
+recipes.removeByRecipeName("ceramics:armor/clay_leggings_raw");
+recipes.removeByRecipeName("ceramics:armor/clay_boots_raw");
