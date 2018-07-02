@@ -7,7 +7,7 @@
       "max": 20,
       "potions": [
         {
-          "name": "minecraft:speed",
+          "name": "zentweaker:briskness",
           "duration": "100",
           "amplifier": 0,
           "particles": false
@@ -21,7 +21,7 @@
       "max": 80,
       "potions": [
         {
-          "name": "minecraft:slowness",
+          "name": "zentweaker:heaviness",
           "duration": "100",
           "amplifier": 0,
           "particles": false
@@ -35,7 +35,7 @@
       "max": 2000000000,
       "potions": [
         {
-          "name": "minecraft:slowness",
+          "name": "zentweaker:heaviness",
           "duration": "100",
           "amplifier": 1,
           "particles": false
