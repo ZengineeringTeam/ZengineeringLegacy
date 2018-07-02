@@ -1,3 +1,5 @@
+furnace.setFuel(<minecraft:lava_bucket>, 0);
+
 furnace.setFuel(<quark:stained_planks_black_slab>, 150);
 furnace.setFuel(<quark:stained_planks_red_slab>, 150);
 furnace.setFuel(<quark:stained_planks_green_slab>, 150);
