@@ -18,6 +18,15 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:logDarkOak>.add(<forestry:logs.vanilla.fireproof.1:1>);
 <ore:logOak>.add(<techreborn:rubber_log>);
 
+# Stones
+<ore:stoneVariant>.add(<minecraft:stone:0>);
+<ore:stoneVariant>.add(<minecraft:stone:1>);
+<ore:stoneVariant>.add(<minecraft:stone:3>);
+<ore:stoneVariant>.add(<minecraft:stone:5>);
+<ore:stoneVariant>.add(<quark:basalt:0>);
+<ore:stoneVariant>.add(<quark:marble:0>);
+<ore:stoneVariant>.add(<magneticraft:limestone:0>);
+
 # Dyes
 <ore:dyeBrown>.remove(<betterwithmods:material:5>);
 <ore:dyeBrown>.remove(<industrialforegoing:fertilizer>); # No, I won't use them
