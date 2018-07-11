@@ -70,3 +70,9 @@ recipes.removeByRecipeName("ceramics:armor/clay_helmet_raw");
 recipes.removeByRecipeName("ceramics:armor/clay_chestplate_raw");
 recipes.removeByRecipeName("ceramics:armor/clay_leggings_raw");
 recipes.removeByRecipeName("ceramics:armor/clay_boots_raw");
+
+# Immersive Engineering
+recipes.removeByRecipeName("immersiveengineering:tool/steel_pickaxe");
+recipes.removeByRecipeName("immersiveengineering:tool/steel_shovel");
+recipes.removeByRecipeName("immersiveengineering:tool/steel_axe");
+recipes.removeByRecipeName("immersiveengineering:tool/steel_sword");
