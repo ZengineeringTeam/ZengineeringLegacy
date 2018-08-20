@@ -29,14 +29,6 @@ recipes.remove(<forestry:planks.fireproof.1:*>);
 recipes.remove(<forestry:planks.0:*>);
 recipes.remove(<forestry:planks.1:*>);
 
-recipes.remove(<cuisine:chopping_board:*>);
-recipes.addShaped(<cuisine:chopping_board>, [[<ore:logOak>]]);
-recipes.addShaped(<cuisine:chopping_board:1>, [[<ore:logSpruce>]]);
-recipes.addShaped(<cuisine:chopping_board:2>, [[<ore:logBirch>]]);
-recipes.addShaped(<cuisine:chopping_board:3>, [[<ore:logJungle>]]);
-recipes.addShaped(<cuisine:chopping_board:4>, [[<ore:logAcacia>]]);
-recipes.addShaped(<cuisine:chopping_board:5>, [[<ore:logDarkOak>]]);
-
 # Tough as Nails
 val wool = <quark:quilted_wool:*>;
 recipes.removeByRecipeName("toughasnails:wool_boots");
