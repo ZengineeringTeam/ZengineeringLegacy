@@ -53,6 +53,8 @@ recipes.addShaped(<inspirations:glass_trapdoor>, [[<ore:blockGlassColorless>, <o
 recipes.removeByRecipeName("betterwithmods:higheff/cobblestone_stairs");
 recipes.removeByRecipeName("betterwithmods:higheff/brick_stairs");
 recipes.removeByRegex("betterwithmods:piles/.+");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/lens");
+recipes.removeByRecipeName("betterwithmods:buddy_block");
 
 # EnderIO
 # Don't use CraftTweaker to modify recipes. There are some bugs and use its xml.
