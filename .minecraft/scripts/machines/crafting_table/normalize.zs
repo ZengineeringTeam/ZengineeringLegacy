@@ -94,6 +94,7 @@ recipes.removeByRegex("betterwithmods:piles/.+");
 recipes.removeByRecipeName("betterwithmods:blocks/redstone/lens");
 recipes.removeByRecipeName("betterwithmods:buddy_block");
 recipes.removeByRecipeName("betterwithmods:decompress/material.diamond_ingot_compress");
+recipes.removeByRecipeName("betterwithmods:items/material/material.diamond_ingot");
 
 # Tech Reborn
 recipes.removeByRecipeName("techreborn:diamond");
