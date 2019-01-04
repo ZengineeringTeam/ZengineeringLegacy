@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:true
 ao:2
 renderClouds:true
-resourcePacks:["Minecraft-Mod-Language-Modpack.zip","Minty"]
+resourcePacks:["Zengineering"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
