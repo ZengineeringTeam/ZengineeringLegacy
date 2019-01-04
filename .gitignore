@@ -13,6 +13,8 @@
 /.minecraft/*.*
 /.minecraft/config/BlockDrops/modVersions.txt
 /.minecraft/config/BlockDrops/blockdrops.txt
+/.minecraft/journeymap
+/.minecraft/crafttweaker_dump
 
 # jars
 /.minecraft/mods/*
@@ -33,3 +35,5 @@
 /.minecraft/config/i18nmod.cfg
 /.minecraft/dakimakura-mod/*
 /natives
+*.dll
+.minecraft/config/splash.properties
