@@ -1,0 +1,15 @@
+{
+    "name": "Overworld",
+    "icon": "minecraft:grass",
+    "category": "ore_veins",
+    "pages": [
+        {
+            "type": "ore_vein_info",
+            "content": "123",
+            "ores": "minecraft:red_flower,minecraft:redstone_ore",
+            "indicators": "minecraft:red_flower",
+            "min_y": 10,
+            "max_y": 20
+        }
+    ]
+}

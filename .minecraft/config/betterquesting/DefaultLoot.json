@@ -1,0 +1,28 @@
+{
+  "groups:9": {
+    "0:10": {
+      "name:8": "Loot Group",
+      "weight:3": 1,
+      "ID:3": 0,
+      "rewards:9": {
+        "0:10": {
+          "weight:3": 1,
+          "ID:3": 0,
+          "items:9": {
+            "0:10": {
+              "id:8": "forestry:ash",
+              "Count:3": 1,
+              "tag:10": {
+                "display:10": {
+                  "LocName:8": "ze.loot.ash"
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 0
+            }
+          }
+        }
+      }
+    }
+  }
+}

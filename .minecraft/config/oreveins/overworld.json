@@ -1,0 +1,105 @@
+{
+  "coal": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:coal_ore",
+        "weight": 39
+      },
+      {
+        "block": "minecraft:diamond_ore",
+        "weight": 1
+      }
+    ],
+    "stone": "minecraft:stone",
+    "indicator": {
+      "rarity": 20,
+      "max_depth": 72,
+      "blocks:": [
+        {
+          "block": "minecraft:red_flower",
+          "meta": 3
+        },
+        {
+          "block": "biomesoplenty:plant_1",
+          "meta": 10
+        }
+      ]
+    },
+    "rarity": 30,
+    "density": 100,
+    "min_y": 42,
+    "max_y": 128,
+    "vertical_size": 15,
+    "horizontal_size": 50
+  },
+  "iron": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:iron_ore",
+        "weight": 30
+      },
+      {
+        "block": "minecraft:gold_ore",
+        "weight": 10
+      }
+    ],
+    "stone": "minecraft:stone",
+    "indicator": {
+      "rarity": 20,
+      "max_depth": 72,
+      "blocks": [
+        {
+          "block": "inspirations:flower",
+          "meta": 1
+        },
+        {
+          "block": "biomesoplenty:flower_1",
+          "meta": 3
+        }
+      ]
+    },
+    "rarity": 30,
+    "density": 100,
+    "min_y": 30,
+    "max_y": 48,
+    "vertical_size": 12,
+    "horizontal_size": 50
+  },
+  "redstone": {
+    "type": "cluster",
+    "ore": [
+      {
+        "block": "minecraft:redstone_ore",
+        "weight": 47
+      },
+      {
+        "block": "thermalfoundation:fluid_redstone",
+        "weight": 1
+      },
+      {
+        "block": "thermalfoundation:ore_fluid",
+        "meta": 2,
+        "weight": 2
+      }
+    ],
+    "stone": "minecraft:stone",
+    "indicator": {
+      "rarity": 20,
+      "max_depth": 72,
+      "blocks": [
+        {
+          "block": "inspirations:flower",
+          "meta": 0
+        }
+      ]
+    },
+    "rarity": 50,
+    "density": 500,
+    "min_y": 1,
+    "max_y": 16,
+    "vertical_size": 12,
+    "horizontal_size": 50
+  }
+}

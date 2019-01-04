@@ -8,7 +8,7 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:logJungle>.add(<minecraft:log:3>);
 <ore:logAcacia>.add(<minecraft:log2>);
 <ore:logDarkOak>.add(<minecraft:log2:1>);
-<ore:logJungle>.add(<betterwithmods:blood_log>);
+// <ore:logJungle>.add(<betterwithmods:blood_log>);
 // Some codes were here
 <ore:logOak>.add(<forestry:logs.vanilla.fireproof.0>);
 <ore:logSpruce>.add(<forestry:logs.vanilla.fireproof.0:1>);
@@ -25,7 +25,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:stoneVariant>.add(<minecraft:stone:5>);
 <ore:stoneVariant>.add(<quark:basalt:0>);
 <ore:stoneVariant>.add(<quark:marble:0>);
-<ore:stoneVariant>.add(<magneticraft:limestone:0>);
 
 # Dyes
 <ore:dyeBrown>.remove(<betterwithmods:material:5>);
@@ -46,9 +45,6 @@ import crafttweaker.oredict.IOreDictEntry;
 <ore:dyeMagenta>.remove(<thermalfoundation:dye:13>);
 <ore:dyeOrange>.remove(<thermalfoundation:dye:14>);
 <ore:dyeWhite>.remove(<thermalfoundation:dye:15>);
-<ore:dyeGreen>.remove(<enderio:item_material:48>);
-<ore:dyeBrown>.remove(<enderio:item_material:49>);
-<ore:dyeBlack>.remove(<enderio:item_material:50>);
 <ore:dye>.remove(<thermalfoundation:dye:32767>);
 <ore:dye>.addItems([
   <biomesoplenty:blue_dye>,
@@ -59,15 +55,18 @@ import crafttweaker.oredict.IOreDictEntry;
 ]);
 
 # Guides
-<magneticraft:guide_book>.maxStackSize = 1;
 <industrialforegoing:book_manual>.maxStackSize = 1;
 <ore:manual>.addItems([
-  <magneticraft:guide_book>,
   <industrialforegoing:book_manual>,
   <betterwithmods:manual>,
   <techreborn:techmanuel>,
-  <xnet:xnet_manual>,
+  //<xnet:xnet_manual>,
   <immersiveengineering:tool:3>,
-  <forestry:book_forester>
+  <forestry:book_forester>,
+  <cuisine:manual>
 ]);
 <ore:book>.addAll(<ore:manual>);
+
+# Windmills
+<ore:windmill>.add(<betterwithmods:axle_generator:0>);
+<ore:windmill>.add(<betterwithmods:axle_generator:2>);

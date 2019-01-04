@@ -1,0 +1,40 @@
+{
+	"populate": {
+		"fossil": {
+			"generator": {
+				"type": "structure",
+				"structure": [
+					{ "name": "fossils/fossil_spine_01" },
+					{ "name": "fossils/fossil_spine_02" },
+					{ "name": "fossils/fossil_spine_03" },
+					{ "name": "fossils/fossil_spine_04" },
+					{ "name": "fossils/fossil_skull_01" },
+					{ "name": "fossils/fossil_skull_02" },
+					{ "name": "fossils/fossil_skull_03" },
+					{ "name": "fossils/fossil_skull_04" }
+				]
+			},
+			"distribution": "surface",
+			"chunk-chance": 1,
+			"cluster-count": 1,
+			"min-height": 50,
+			"max-height": 128,
+			"material": [
+				"minecraft:dirt",
+				"minecraft:grass",
+				"minecraft:stone",
+				"minecraft:snow",
+				"minecraft:snow_layer"
+			],
+			"follow-terrain": true,
+			"retrogen": false,
+			"dimension": {
+				"restriction": "blacklist",
+				"value": [
+					-1,
+					1
+				]
+			}
+		}
+	}
+}

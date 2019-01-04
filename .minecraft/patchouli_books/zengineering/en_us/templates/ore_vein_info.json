@@ -1,0 +1,20 @@
+{
+	"components": [
+		{
+			"type": "text",
+			"text": "#content"
+		},
+		{
+			"type": "item",
+			"item": "#ores",
+			"framed": true,
+			"y": 20
+		},
+		{
+			"type": "item",
+			"item": "#indicators",
+			"framed": true,
+			"y": 40
+		}
+	]
+}
