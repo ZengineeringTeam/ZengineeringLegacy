@@ -139,6 +139,13 @@
               "Damage:3": 0
             }
           }
+        },
+        "1:10": {
+          "hideCommand:1": 0,
+          "rewardID:8": "bq_standard:command",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "command:8": "/gamestage add VAR_NAME 1"
         }
       }
     },
@@ -1406,7 +1413,15 @@
           "taskID:8": "bq_standard:retrieval"
         }
       },
-      "rewards:9": {}
+      "rewards:9": {
+        "0:10": {
+          "hideCommand:1": 0,
+          "rewardID:8": "bq_standard:command",
+          "viaPlayer:1": 0,
+          "index:3": 0,
+          "command:8": "/gamestage add VAR_NAME 2"
+        }
+      }
     },
     "18:10": {
       "questID:3": 18,
@@ -2543,6 +2558,13 @@
               "Damage:3": 0
             }
           }
+        },
+        "1:10": {
+          "hideCommand:1": 0,
+          "rewardID:8": "bq_standard:command",
+          "viaPlayer:1": 0,
+          "index:3": 1,
+          "command:8": "/gamestage add VAR_NAME 3"
         }
       }
     },
