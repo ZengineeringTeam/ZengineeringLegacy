@@ -37,3 +37,4 @@
 /natives
 *.dll
 .minecraft/config/splash.properties
+.minecraft/config/AppliedEnergistics2/items.csv
