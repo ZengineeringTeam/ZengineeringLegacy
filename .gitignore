@@ -15,6 +15,7 @@
 /.minecraft/config/BlockDrops/blockdrops.txt
 /.minecraft/journeymap
 /.minecraft/crafttweaker_dump
+/.minecraft/assets
 
 # jars
 /.minecraft/mods/*
@@ -25,7 +26,6 @@
 # config
 /.minecraft/config/jei/worldSettings.cfg
 /.minecraft/config/MouseTweaks.cfg
-/.minecraft/config/worldedit
 /.minecraft/.ReAuth.cfg
 /instance.cfg
 
