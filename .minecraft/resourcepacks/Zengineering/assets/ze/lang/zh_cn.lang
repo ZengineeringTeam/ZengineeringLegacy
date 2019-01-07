@@ -90,7 +90,7 @@ ze.1.quest.sieve.name=灵魂榨取
 ze.1.quest.sieve.desc=去下界旅行吧！别忘了带一些地狱岩和灵魂沙回来，将地狱岩磨成地狱岩渣，使用滤筛漏斗提炼出更有用的资源吧！\n\n滤筛漏斗或许不是看起来那么安全呢~
 
 ze.1.quest.soulforging.name=灵魂锻造
-ze.1.quest.soulforging.desc=使用坩埚（猛火）来制造融魂钢，融魂钢制成的融魂钢钢砧可以制作更为强力的工具和护甲，为接下来的发展做好准备吧！
+ze.1.quest.soulforging.desc=使用坩埚（猛火）来制造熔魂钢，熔魂钢制成的熔魂钢钢砧可以制作更为强力的工具和护甲，为接下来的发展做好准备吧！
 
 ze.1.quest.nether.name=探访下界
 ze.1.quest.nether.desc=你决定去往下界了吗，前往危险的世界之前，带好你的武器和装备，小心谨慎！\n\n别忘了带些特产回家~
@@ -129,7 +129,7 @@ ze.1.quest.greenhouse.name=四季如春
 ze.1.quest.greenhouse.desc=是否厌倦了作物到了冬季就会停止生长，那么来制作一些温室玻璃吧。\n\n温室玻璃可以用来搭建温室，温室可以使作物即使在冬季也可以正常生长！\n\n注意：温室玻璃必须在作物的上方7格内！
 
 ze.1.quest.soulSteel.name=科技改变生活
-ze.1.quest.soulSteel.desc=使用融魂钢钢砧可以锻造出较为精密的机械构件，试着升级你的风箱吧，我保证你会爱上它的！
+ze.1.quest.soulSteel.desc=使用熔魂钢钢砧可以锻造出较为精密的机械构件，试着升级你的风箱吧，我保证你会爱上它的！
 
 ze.questline.2.title=科技革命
 ze.questline.2.desc=规模生产的挑战
