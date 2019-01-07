@@ -13,6 +13,8 @@
 /.minecraft/*.*
 /.minecraft/config/BlockDrops/modVersions.txt
 /.minecraft/config/BlockDrops/blockdrops.txt
+/.minecraft/config/AppliedEnergistics2/items.csv
+/.minecraft/config/jei/bookmarks.ini
 /.minecraft/journeymap
 /.minecraft/crafttweaker_dump
 /.minecraft/assets
@@ -25,18 +27,17 @@
 
 # config
 /.minecraft/config/jei/worldSettings.cfg
+/.minecraft/config/jei/bookmarks.ini
 /.minecraft/config/MouseTweaks.cfg
 /.minecraft/.ReAuth.cfg
 /instance.cfg
+/.minecraft/config/splash.properties
 
 # other
 /.minecraft/resourcepacks/Minecraft-Mod-Language-Modpack.zip
+/.minecraft/resourcepacks/Unity-1.12_plus.zip
 /.minecraft/TombManyGraves/friends.fdat
 /.minecraft/config/i18nmod.cfg
 /.minecraft/dakimakura-mod/*
 /natives
 *.dll
-.minecraft/config/splash.properties
-.minecraft/config/AppliedEnergistics2/items.csv
-.minecraft/config/jei/bookmarks.ini
-.minecraft/resourcepacks/Unity-1.12_plus.zip
