@@ -95,6 +95,18 @@ recipes.removeByRecipeName("betterwithmods:blocks/redstone/lens");
 recipes.removeByRecipeName("betterwithmods:buddy_block");
 recipes.removeByRecipeName("betterwithmods:decompress/material.diamond_ingot_compress");
 recipes.removeByRecipeName("betterwithmods:items/material/material.diamond_ingot");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_5");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_4");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_3");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_2");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_1");
+recipes.removeByRecipeName("betterwithmods:blocks/redstone/chime/bamboo_chime_0");
+recipes.addShaped(<betterwithmods:bamboo_chime:0>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "oak"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "oak"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
+recipes.addShaped(<betterwithmods:bamboo_chime:1>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "spruce"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "spruce"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
+recipes.addShaped(<betterwithmods:bamboo_chime:2>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "birch"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "birch"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
+recipes.addShaped(<betterwithmods:bamboo_chime:3>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "jungle"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "jungle"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
+recipes.addShaped(<betterwithmods:bamboo_chime:4>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "acacia"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "acacia"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
+recipes.addShaped(<betterwithmods:bamboo_chime:5>, [[null, <ore:stringAny>, null],[<ore:stringAny>, <ore:pressurePlateWood>, <ore:stringAny>], [<ore:bamboo>, <betterwithmods:moulding_wood>.withTag({texture: {Properties: {variant: "dark_oak"}, Name: "minecraft:planks"}}).onlyWithTag({texture: {Properties: {variant: "dark_oak"}, Name: "minecraft:planks"}}), <ore:bamboo>]]);
 
 # Tech Reborn
 recipes.removeByRecipeName("techreborn:diamond");

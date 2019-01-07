@@ -70,3 +70,7 @@ import crafttweaker.oredict.IOreDictEntry;
 # Windmills
 <ore:windmill>.add(<betterwithmods:axle_generator:0>);
 <ore:windmill>.add(<betterwithmods:axle_generator:2>);
+
+#Bamboo
+<ore:bamboo>.add(<biomesoplenty:bamboo>);
+<ore:bamboo>.add(<cuisine:bamboo>);
