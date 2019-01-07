@@ -38,3 +38,5 @@
 *.dll
 .minecraft/config/splash.properties
 .minecraft/config/AppliedEnergistics2/items.csv
+.minecraft/config/jei/bookmarks.ini
+.minecraft/resourcepacks/Unity-1.12_plus.zip
