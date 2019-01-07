@@ -74,3 +74,7 @@ import crafttweaker.oredict.IOreDictEntry;
 # Wires
 <ore:wireCopper>.add(<techreborn:cable:0>);
 <ore:wireElectrum>.add(<techreborn:cable:2>);
+
+#Bamboo
+<ore:bamboo>.add(<biomesoplenty:bamboo>);
+<ore:bamboo>.add(<cuisine:bamboo>);
