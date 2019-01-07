@@ -2418,6 +2418,19 @@
               "Count:3": 1,
               "OreDict:8": "",
               "Damage:3": 0
+            },
+            "1:10": {
+              "id:8": "inspirations:bookshelf",
+              "Count:3": 1,
+              "tag:10": {
+                "texture:10": {
+                  "id:8": "minecraft:wooden_slab",
+                  "Count:1": 1,
+                  "Damage:2": 0
+                }
+              },
+              "OreDict:8": "",
+              "Damage:3": 32767
             }
           },
           "taskID:8": "bq_standard:retrieval"
