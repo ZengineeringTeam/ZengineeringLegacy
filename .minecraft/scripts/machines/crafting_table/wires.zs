@@ -38,8 +38,7 @@ recipes.addShapeless(<techreborn:cable:2>, [<immersiveengineering:tool:1>, <ore:
 recipes.addShapeless(<immersiveengineering:material:22>, [<immersiveengineering:tool:1>, <ore:plateAluminum>]);
 recipes.addShapeless(<immersiveengineering:material:23>, [<immersiveengineering:tool:1>, <ore:plateSteel>]);
 
-//FIXME
 MetalPress.removeRecipe(<immersiveengineering:material:20> * 2);
 MetalPress.removeRecipe(<immersiveengineering:material:21> * 2);
-MetalPress.addRecipe(<immersiveengineering:material:20> * 2, <ore:ingotCopper>, <immersiveengineering:mold:4>, 2400);
-MetalPress.addRecipe(<immersiveengineering:material:21> * 2, <ore:ingotElectrum>, <immersiveengineering:mold:4>, 2400);
+MetalPress.addRecipe(<techreborn:cable> * 2, <ore:ingotCopper>, <immersiveengineering:mold:4>, 2400);
+MetalPress.addRecipe(<techreborn:cable:2> * 2, <ore:ingotElectrum>, <immersiveengineering:mold:4>, 2400);
