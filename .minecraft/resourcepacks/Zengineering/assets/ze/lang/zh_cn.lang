@@ -84,52 +84,52 @@ ze.questline.1.title=曙光初现
 ze.questline.1.desc=变革兴起的时代
 
 ze.1.quest.hibachi.name=火力全开
-ze.1.quest.hibachi.desc=
+ze.1.quest.hibachi.desc=火盆与风箱使你可以更好的使用火焰，更高温度的火焰带来了更高的生产力，意味着现在你可以制作更多的东西。\n\n火盆需要红石信号激活，风箱的使用比较特殊，需要间歇性的传入动力，你可以使用脉冲红石信号控制变速箱来达到目的。\n\n风箱与火盆的使用方法可以在 “机师期刊” 的 “Blocks -> Hibachi” “Blocks -> Bellows” 条目内看到。
 
 ze.1.quest.sieve.name=灵魂榨取
-ze.1.quest.sieve.desc=
+ze.1.quest.sieve.desc=去下界旅行吧！别忘了带一些地狱岩和灵魂沙回来，将地狱岩磨成地狱岩渣，使用滤筛漏斗提炼出更有用的资源吧！\n\n滤筛漏斗或许不是看起来那么安全呢~
 
 ze.1.quest.soulforging.name=灵魂锻造
-ze.1.quest.soulforging.desc=
+ze.1.quest.soulforging.desc=使用坩埚（猛火）来制造融魂钢，融魂钢制成的融魂钢钢砧可以制作更为强力的工具和护甲，为接下来的发展做好准备吧！
 
 ze.1.quest.nether.name=探访下界
-ze.1.quest.nether.desc=
+ze.1.quest.nether.desc=你决定去往下界了吗，前往危险的世界之前，带好你的武器和装备，小心谨慎！\n\n别忘了带些特产回家~
 
 ze.1.quest.steel.name=小炼钢铁
-ze.1.quest.steel.desc=
+ze.1.quest.steel.desc=钢铁的冶炼需要更高的温度，地狱砖和烈焰粉混合制成的砖块能更好的保存热量，用他们来搭建高炉吧！
 
 ze.1.quest.saw.name=禁止探头
-ze.1.quest.saw.desc=
+ze.1.quest.saw.desc=当你搭建起了一座风车你就有了动力源，是时候扩建你的风车作坊了！\n\n制作一个螺杆锯，使用螺杆锯来更高效的处理木材。\n\n要小心你的手哦~
 
 ze.1.quest.waterwheel.name=水力科技
-ze.1.quest.waterwheel.desc=
+ze.1.quest.waterwheel.desc=有了强度更高的钢，你就可以制作使用水力的水车了，更高效的动力源！
 
 ze.1.quest.turnTable.name=命运的转盘
-ze.1.quest.turnTable.desc=
+ze.1.quest.turnTable.desc=接下来制作一个螺杆旋转台，然后“旋转吧~粘土块！”\n\n螺杆旋转台可以制作坩埚、培植皿、花瓶、陶瓮，当然这些都需要烧制之后才能使用。\n\n螺杆旋转台需要从底部输入机械能，空手右击以调整速度。
 
 ze.1.quest.gearSteel.name=强力驱动
-ze.1.quest.gearSteel.desc=
+ze.1.quest.gearSteel.desc=更高效的动力传输！或许对于你的机器来说并不友好！
 
 ze.1.quest.dynamo.name=电力时代
-ze.1.quest.dynamo.desc=
+ze.1.quest.dynamo.desc=激动人心的时刻到来了，电力！！！现在就来制作你的第一台发电设备吧！
 
 ze.1.quest.enchantingTable.name=附魔台
-ze.1.quest.enchantingTable.desc=
+ze.1.quest.enchantingTable.desc=是否觉得你的工具损耗太快、武器不够锋利、护甲也不能为你承受更多伤害？是时候开始你的附魔之路啦！
 
 ze.1.quest.enchantingEnhanced.name=炼狱附魔
-ze.1.quest.enchantingEnhanced.desc=
+ze.1.quest.enchantingEnhanced.desc=普通附魔台的附魔总是没有自己想要的？那么你就需要这个更高级的附魔台——炼狱附魔台！使用奥术卷轴来为你的武器、工具、装备附上你想要的强力的附魔吧！\n\n炼狱附魔台根据周围有效书架的数量来提供可附魔的等级。以炼狱附魔台为中心的17*17*17的范围内的书架都是有效书架。\n\n击杀怪物会掉落奥术卷轴，不同怪物掉落的奥术卷轴不同，详细见“机师期刊”“Item -> Arcane Scrolls”。
 
 ze.1.quest.brewing.name=琼浆玉液
-ze.1.quest.brewing.desc=
+ze.1.quest.brewing.desc=生活渐入佳境，酿造些美酒（或许吧）为生活添加些色彩！
 
 ze.1.quest.netherStar.name=下界新星
-ze.1.quest.netherStar.desc=
+ze.1.quest.netherStar.desc=哦···诡异而又可怕的骷髅···掉了头，嗯，下界之星的诱惑没有人能抵挡！
 
 ze.1.quest.greenhouse.name=四季如春
-ze.1.quest.greenhouse.desc=
+ze.1.quest.greenhouse.desc=是否厌倦了作物到了冬季就会停止生长
 
 ze.1.quest.soulSteel.name=科技改变生活
-ze.1.quest.soulSteel.desc=
+ze.1.quest.soulSteel.desc=使用融魂钢钢砧可以锻造出较为精密的机械构件，试着升级你的风箱吧，我保证你会爱上它的！
 
 ze.questline.2.title=科技革命
 ze.questline.2.desc=规模生产的挑战
