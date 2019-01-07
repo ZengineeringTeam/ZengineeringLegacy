@@ -193,3 +193,10 @@ recipes.addShaped(<refinedstorage:pattern>, [[<refinedstorage:pattern>]]);
 # Refraction
 recipes.removeByRecipeName("refraction:lens");
 recipes.addShaped(<refraction:lens>, [[<ore:blockGlassColorless>, <ore:blockGlassColorless>, <ore:blockGlassColorless>]]);
+
+# Remove vanilla bookshelf
+recipes.removeByRecipeName("minecraft:bookshelf");
+recipes.removeByRecipeName("refinedstorage:silk_touch_upgrade");
+recipes.removeByRecipeName("refinedstorage:fortune_3_upgrade");
+recipes.removeByRecipeName("refinedstorage:fortune_2_upgrade");
+recipes.removeByRecipeName("refinedstorage:fortune_1_upgrade");
