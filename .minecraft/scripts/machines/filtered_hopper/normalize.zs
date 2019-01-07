@@ -1,3 +1,5 @@
+#modloaded betterwithmods
+
 import mods.betterwithmods.FilteredHopper;
 
 FilteredHopper.removeRecipeByInput(<betterwithmods:material:23>);

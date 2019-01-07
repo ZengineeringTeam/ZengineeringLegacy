@@ -1,3 +1,5 @@
+#modloaded cuisine
+
 import mods.cuisine.BasinThrowing;
 
 //TODO: Add these recipes to Cuisine itself

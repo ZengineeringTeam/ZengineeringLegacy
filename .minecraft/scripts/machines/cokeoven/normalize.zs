@@ -1,3 +1,5 @@
+#modloaded betterwithmods
+
 import mods.immersiveengineering.CokeOven;
 
 CokeOven.removeRecipe(<immersiveengineering:material:6>);

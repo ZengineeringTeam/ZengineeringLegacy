@@ -1,3 +1,5 @@
+#modloaded betterwithmods
+
 import mods.betterwithmods.Crucible;
 
 Crucible.remove([<betterwithmods:material:14>, <betterwithmods:urn:0>]);

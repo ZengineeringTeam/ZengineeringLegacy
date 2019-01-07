@@ -1,3 +1,5 @@
+#modloaded immersiveengineering
+
 import mods.immersiveengineering.Crusher;
 
 Crusher.addRecipe(<minecraft:gravel>, <quark:biome_cobblestone:0>, 1600, <techreborn:smalldust:52>, 0.75);

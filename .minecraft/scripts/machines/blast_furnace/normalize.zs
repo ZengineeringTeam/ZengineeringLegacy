@@ -1,3 +1,5 @@
+#modloaded immersiveengineering
+
 import mods.immersiveengineering.BlastFurnace;
 
 BlastFurnace.removeRecipe(<thermalfoundation:material:160>);
