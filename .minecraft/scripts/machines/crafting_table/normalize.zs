@@ -117,8 +117,6 @@ recipes.removeByRecipeName("immersiveengineering:wooden_devices/windmill_blade")
 recipes.removeByRecipeName("immersiveengineering:wooden_devices/windmill_sail");
 
 # Remove all gear recipes
-recipes.removeByRecipeName("advancedrocketry:geartitanium");
-recipes.removeByRecipeName("advancedrocketry:gearsteel");
 recipes.removeByRecipeName("thermalfoundation:material_81");
 recipes.removeByRecipeName("thermalfoundation:material_80");
 recipes.removeByRecipeName("thermalfoundation:material_79");
@@ -148,8 +146,10 @@ recipes.removeByRecipeName("forestry:gear_copper");
 recipes.removeByRecipeName("forestry:gear_bronze");
 recipes.removeByRecipeName("betterwithmods:items/material/material.gear");
 recipes.removeByRecipeName("appliedenergistics2:misc/grindstone_woodengear");
-recipes.removeByRecipeName("advancedrocketry:geartitaniumiridium");
-recipes.removeByRecipeName("advancedrocketry:geartitaniumaluminide");
+// recipes.removeByRecipeName("advancedrocketry:geartitanium");
+// recipes.removeByRecipeName("advancedrocketry:gearsteel");
+// recipes.removeByRecipeName("advancedrocketry:geartitaniumiridium");
+// recipes.removeByRecipeName("advancedrocketry:geartitaniumaluminide");
 
 recipes.removeByRecipeName("immersiveengineering:material/plate_aluminum");
 recipes.removeByRecipeName("immersiveengineering:material/plate_constantan");
@@ -188,7 +188,7 @@ recipes.addShaped(<betterwithmods:axle_generator:1>, [[null, <immersiveengineeri
 recipes.addShaped(<refinedstorage:pattern>, [[<refinedstorage:pattern>]]);
 
 # Advanced Rocketry
-recipes.removeByRecipeName("advancedrocketry:blockplatepress");
+// recipes.removeByRecipeName("advancedrocketry:blockplatepress");
 
 # Refraction
 recipes.removeByRecipeName("refraction:lens");

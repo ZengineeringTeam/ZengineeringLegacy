@@ -59,10 +59,10 @@ furnace.remove(<techreborn:ingot:*>);
 
 furnace.remove(<mekanism:ingot:*>);
 
-furnace.remove(<libvulpes:productdust:*>);
-furnace.remove(<libvulpes:productingot:*>);
+// furnace.remove(<libvulpes:productdust:*>);
+// furnace.remove(<libvulpes:productingot:*>);
 
-furnace.remove(<advancedrocketry:productingot:*>);
+// furnace.remove(<advancedrocketry:productingot:*>);
 
 furnace.remove(<forestry:apatite>);
 furnace.remove(<forestry:ingot_copper>);
