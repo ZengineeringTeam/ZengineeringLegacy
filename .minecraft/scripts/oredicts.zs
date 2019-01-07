@@ -70,3 +70,7 @@ import crafttweaker.oredict.IOreDictEntry;
 # Windmills
 <ore:windmill>.add(<betterwithmods:axle_generator:0>);
 <ore:windmill>.add(<betterwithmods:axle_generator:2>);
+
+# Wires
+<ore:wireCopper>.add(<techreborn:cable:0>);
+<ore:wireElectrum>.add(<techreborn:cable:2>);
