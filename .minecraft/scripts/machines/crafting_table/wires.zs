@@ -38,6 +38,18 @@ recipes.addShapeless(<techreborn:cable:2>, [<immersiveengineering:tool:1>, <ore:
 recipes.addShapeless(<immersiveengineering:material:22>, [<immersiveengineering:tool:1>, <ore:plateAluminum>]);
 recipes.addShapeless(<immersiveengineering:material:23>, [<immersiveengineering:tool:1>, <ore:plateSteel>]);
 
+recipes.removeByRecipeName("industrialwires:panel_component_slider");
+recipes.removeByRecipeName("immersiveengineering:toolupgrades/railgun_capacitors");
+recipes.removeByRecipeName("immersiveengineering:armor/powerpack");
+recipes.removeByRecipeName("techreborn:hv_transformer");
+
+recipes.addShaped(<techreborn:lamp_led>, [[<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>],[<ore:wireCopper>, <ore:dustGlowstone>, <ore:wireCopper>], [<ore:paneGlass>, <ore:paneGlass>, <ore:paneGlass>]]);
+recipes.addShapeless(<industrialwires:panel_component:3>, [<techreborn:cable:3>, <ore:wireCopper>, <minecraft:stone_button>]);
+recipes.addShaped(<immersiveengineering:toolupgrade:9>, [[<techreborn:cable:3>, <techreborn:cable:3>, <techreborn:cable:3>], [<immersiveengineering:metal_device0:2>, <immersiveengineering:metal_device0:2>, <immersiveengineering:metal_device0:2>]]);
+recipes.addShaped(<immersivepetroleum:metal_device:1>, [[<ore:plateIron>, <ore:plateIron>, <ore:plateIron>],[<ore:plateIron>, <immersiveengineering:metal_decoration0:6>, <immersiveengineering:metal_device0>], [<ore:plateIron>, <ore:plateIron>, <ore:plateIron>]]);
+recipes.addShaped(<immersiveengineering:powerpack>, [[<ore:hideTanned>, <immersiveengineering:metal_device0>, <ore:hideTanned>], [<ore:wireCopper>, <immersiveengineering:connector>, <ore:wireCopper>]]);
+recipes.addShaped(<techreborn:hv_transformer>, [[<techreborn:cable:3>],[<techreborn:mv_transformer>], [<techreborn:cable:3>]]);
+
 MetalPress.removeRecipe(<immersiveengineering:material:20> * 2);
 MetalPress.removeRecipe(<immersiveengineering:material:21> * 2);
 MetalPress.addRecipe(<techreborn:cable> * 2, <ore:ingotCopper>, <immersiveengineering:mold:4>, 2400);

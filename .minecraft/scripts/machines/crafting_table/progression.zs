@@ -81,9 +81,9 @@ recipes.removeByRecipeName("immersiveengineering:material/windmill_blade");
 recipes.removeByRecipeName("immersiveengineering:metal_decoration/coil_hv");
 recipes.removeByRecipeName("immersiveengineering:metal_decoration/coil_electrum");
 recipes.removeByRecipeName("immersiveengineering:metal_decoration/coil_copper");
-recipes.addShaped(<immersiveengineering:metal_decoration0:2>, [[<immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>],[<immersiveengineering:wirecoil:2>, <betterwithmods:steel_axle>, <immersiveengineering:wirecoil:2>], [<immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>, <immersiveengineering:wirecoil:2>]]);
-recipes.addShaped(<immersiveengineering:metal_decoration0:1>, [[<immersiveengineering:wirecoil:1>, <immersiveengineering:wirecoil:1>, <immersiveengineering:wirecoil:1>],[<immersiveengineering:wirecoil:1>, <betterwithmods:steel_axle>, <immersiveengineering:wirecoil:1>], [<immersiveengineering:wirecoil:1>, <immersiveengineering:wirecoil:1>, <immersiveengineering:wirecoil:1>]]);
-recipes.addShaped(<immersiveengineering:metal_decoration0>, [[<immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>],[<immersiveengineering:wirecoil>, <betterwithmods:steel_axle>, <immersiveengineering:wirecoil>], [<immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>, <immersiveengineering:wirecoil>]]);
+recipes.addShaped(<immersiveengineering:metal_decoration0:2>, [[<techreborn:cable>, <techreborn:cable>, <techreborn:cable>],[<techreborn:cable>, <betterwithmods:steel_axle>, <techreborn:cable>], [<techreborn:cable>, <techreborn:cable>, <techreborn:cable>]]);
+recipes.addShaped(<immersiveengineering:metal_decoration0:1>, [[<techreborn:cable:2>, <techreborn:cable:2>, <techreborn:cable:2>],[<techreborn:cable:2>, <betterwithmods:steel_axle>, <techreborn:cable:2>], [<techreborn:cable:2>, <techreborn:cable:2>, <techreborn:cable:2>]]);
+recipes.addShaped(<immersiveengineering:metal_decoration0>, [[<techreborn:cable:3>, <techreborn:cable:3>, <techreborn:cable:3>],[<techreborn:cable:3>, <betterwithmods:steel_axle>, <techreborn:cable:3>], [<techreborn:cable:3>, <techreborn:cable:3>, <techreborn:cable:3>]]);
 
 recipes.removeByRecipeName("immersiveengineering:metal_devices/dynamo");
 recipes.addShaped(<immersiveengineering:metal_device1:2>, [[<minecraft:redstone>, <immersiveengineering:metal_decoration0>, <minecraft:redstone>], [<betterwithmods:material:48>, <betterwithmods:material:48>, <betterwithmods:material:48>]]);
